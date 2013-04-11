@@ -1,0 +1,1 @@
+{"version":3,"file":"HttpRequester.js","sources":["HttpRequester.ts"],"names":["HttpRequester","HttpRequester.constructor","HttpRequester.Fetch"],"mappings":"AAAA,qCAAqC;AAErC;IAAAA;AAICA,IAHGA,gCAAAA,UAAMA,IAAYA;QACdE,OAAOA,EAAEA,CAACA;IACdA,CAACA;IACLF;AAACA,CAAAA,IAAA"}
